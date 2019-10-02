@@ -15,7 +15,7 @@ head, body {
 
 /* Slideshow container */
 .slideshow-container {
-  max-width: 1000px;
+  max-width: 100%;
   position: relative;
   margin: auto;
 }
@@ -35,7 +35,7 @@ head, body {
   padding: 16px;
   color: white;
   font-weight: bold;
-  font-size: 18px;
+  font-size: 500%;
   transition: 0.6s ease;
   border-radius: 0 3px 3px 0;
   user-select: none;

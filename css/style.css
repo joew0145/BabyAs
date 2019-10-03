@@ -135,3 +135,11 @@ h1 {
 .btn-group button:hover {
   background-color: black;
 }
+
+footer {
+  text-align: center;
+}
+
+footer,h2 {
+  font-size: 4vw;
+}

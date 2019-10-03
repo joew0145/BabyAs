@@ -1,0 +1,56 @@
+head, body {
+    background-color: black;
+    color: whitesmoke;
+    font-family: Courgette;
+
+}
+
+h1 {
+  font-size: 6vw;
+  font-weight: bold;
+  
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+
+ul {
+    
+    font-size: 3vw;
+}
+
+.btn-group button{
+  background-color: black;
+  border: 1em solid black;
+  color: white;
+  padding: 0;
+  float: left;
+  font-size: 10vw;
+  font-family: Courgette;
+}
+
+.btn-group button:not(:last-child) {
+  border-right: none; /*preventing double border */
+}
+
+.btn-group::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.btn-group button:hover {
+  background-color: black;
+}
+
+footer {
+  text-align: center;
+}
+
+footer,h2 {
+  font-size: 4vw;
+}

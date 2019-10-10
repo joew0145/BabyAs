@@ -16,7 +16,7 @@ head, body {
 
 .list_wrapper {
     text-align: center;
-    font-size: 4vw;
+    font-size: 3vw;
     padding: 0;   
 }
 h1,h2,h3,h4,h5 {
@@ -37,7 +37,7 @@ ul {
 }
 
 p {
-    font-size: 4vw;
+    font-size: 3vw;
     text-align: center;
 }
 
@@ -70,5 +70,5 @@ footer {
 }
 
 footer {
-  font-size: 4vw;
+  font-size: 3vw;
 }

@@ -12,12 +12,17 @@ head, body {
   }
 
   ul {
-    list-style: none;
+  position:relative;
+  display: inline-block;  
+  list-style: none;
+  width:100%;
+  text-align: center;
+  margin: auto;
+  padding: 0;
 }
 
 .list_wrapper {
-   text-align: center;
-   font-size: 3vw;
+    font-size: 4vw;
   }
 h1,h2,h3,h4,h5 {
     text-align: center;

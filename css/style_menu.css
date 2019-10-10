@@ -37,8 +37,10 @@ h2,h3,h4,h5 {
 }
 
 p {
-    font-size: 4vw;
+    font-size: 4.5vw;
     text-align: center;
+    padding: 0;
+    margin: 0;
 }
 
 .btn-group button{

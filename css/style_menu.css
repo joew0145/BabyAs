@@ -12,29 +12,25 @@ head, body {
     margin-right: auto;
     width: 40%;
   }
-  
+
+  ul {
+    list-style: none;
+}
 
 .list_wrapper {
-    font-size: 4vw;
-    padding: 1vw;
-       
-}
+   text-align: center;
+   font-size: 4vw;
+  }
 h1,h2,h3,h4,h5 {
     text-align: center;
 }
 h1 {
-    font-size: 20vw;
+    font-size: 5vw;
     
 }
 
 h2,h3,h4,h5 {
     font-size: 5vw;
-}
-
-
-ul {
-    list-style: none;
-    text-align: center;
 }
 
 p {

@@ -2,13 +2,15 @@ head, body {
     background-color: black;
     color: whitesmoke;
     font-family: Courgette, Arial, Helvetica, sans-serif;
+    margin: 0;
+
 }
 
 .center {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 25%;
+    width: 40%;
   }
   
 
@@ -21,11 +23,11 @@ h1,h2,h3,h4,h5 {
     text-align: center;
 }
 h1 {
-    font-size: 10vw;
+    font-size: 20vw;
     
 }
 
-h3,h4,h5 {
+h2,h3,h4,h5 {
     font-size: 5vw;
 }
 
@@ -35,7 +37,7 @@ ul {
 }
 
 p {
-    font-size: 5vw;
+    font-size: 4vw;
     text-align: center;
 }
 
@@ -67,6 +69,6 @@ footer {
   text-align: center;
 }
 
-footer,h2 {
+footer {
   font-size: 4vw;
 }

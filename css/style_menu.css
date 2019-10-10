@@ -15,9 +15,9 @@ head, body {
   
 
 .list_wrapper {
-    text-align: center;
-    font-size: 3vw;
-    padding: 0;   
+    font-size: 4vw;
+    padding: 1vw;
+       
 }
 h1,h2,h3,h4,h5 {
     text-align: center;
@@ -34,10 +34,11 @@ h2,h3,h4,h5 {
 
 ul {
     list-style: none;
+    text-align: center;
 }
 
 p {
-    font-size: 3vw;
+    font-size: 4vw;
     text-align: center;
 }
 

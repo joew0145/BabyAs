@@ -71,15 +71,15 @@ p {
 }
 
 footer {
-  display: inline-block;  
-  width: 100%;
   text-align: center;
-  margin: 0;
+  font-size: 3.75vw;
   padding: 0;
+  margin: 0;
 }
 
+
 .second {
-  font-size: 4vw;
+  font-size: 3.75vw;
 }
 
 h6 {

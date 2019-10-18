@@ -1,0 +1,76 @@
+head, body {
+    background-color: black;
+    color: whitesmoke;
+    font-family: Courgette, Arial, Helvetica, sans-serif;
+
+}
+
+h1 {
+  font-size: 5.75vw;
+  font-weight: bold;
+  margin: 0;
+  padding: .25vw;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+h2,h3 {
+    text-align: center;
+    font-size: 4vw;
+}
+
+.info_a {
+    text-align: center;
+    font-size: 2vw;
+}
+
+.info_b {
+    font-size: 2vw;
+}
+
+.owner {
+    background-color: whitesmoke;
+    color: black;
+    font-weight: 100;
+    float: left;
+    padding: 2%;
+    margin: 1vw;
+    border-radius: 50%;
+}
+
+.btn-group button{
+  background-color: black;
+  border: 1em solid black;
+  color: white;
+  padding: 0;
+  float: left;
+  font-size: 10vw;
+  font-family: Courgette;
+}
+
+.btn-group button:not(:last-child) {
+  border-right: none; /*preventing double border */
+}
+
+.btn-group::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.btn-group button:hover {
+  background-color: black;
+}
+
+footer {
+  text-align: center;
+  font-size: 3.75vw;
+  padding: 0;
+  margin: 0;
+}
+
